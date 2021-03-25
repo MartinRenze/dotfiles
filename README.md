@@ -1,11 +1,18 @@
 # dotfiles
 .vimrc, .bashrc etc 
 
+## Switch `Caps` and `Esc` Key
+
 ## Shortcut Keys / Hotkeys
 ### Ubuntu
 Key | Action
 ----|-------
-`Strg` + `Shift` + `print (prt sc)` | Select screenshot of an area and copy it to the clipboard
+`Super` + `Alt` + `t` | Open terminal
+`Strg` + `Shift` + `print (prt sc)` | Select an area to take a screenshot and copy it to the clipboard
+`Super` + `Tab` | Select window
+`Super` + `Arrows` | Position window
+`Super` + `Shift` + `Arrows` | Move window on different monitor
+
 
 ### Bash
 Key | Action

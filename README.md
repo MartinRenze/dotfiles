@@ -20,3 +20,8 @@ Key | Action
 `Strg` + `N` | Go one directory up (`cd ../`)
 
 ### Vim
+
+### Tmux
+Key | Action
+----|-------
+`Strg` + `b` then `[` | Open visual mode

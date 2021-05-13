@@ -1,6 +1,12 @@
 # dotfiles
 .vimrc, .bashrc etc 
 
+## Install
+`git clone https://github.com/MartinRenze/dotfiles.git ~/.dotfiles`
+
+`cd ~/.dotfiles && ./install.sh`
+
+
 ## Switch `Caps` and `Esc` Key
 
 ## Shortcut Keys / Hotkeys

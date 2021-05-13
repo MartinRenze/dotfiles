@@ -3,6 +3,7 @@
 
 ## Install
 `git clone https://github.com/MartinRenze/dotfiles.git ~/.dotfiles`
+
 `cd ~/.dotfiles && ./install.sh`
 
 

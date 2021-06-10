@@ -30,4 +30,6 @@ Key | Action
 ### Tmux
 Key | Action
 ----|-------
-`Strg` + `b` then `[` | Open visual mode
+`Ctrl` + `b` then `[` | Open visual mode
+`tmux a` | Attach to last session
+`Ctrl` + `b` then `d` | Detach from session

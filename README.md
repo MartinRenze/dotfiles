@@ -13,12 +13,18 @@
 ### Ubuntu
 Key | Action
 ----|-------
-`Super` + `Alt` + `t` | Open terminal
+`Strg` + `Alt` + `f` | Open Nautilus
+`Strg` + `Alt` + `t` | Open Terminator
 `Strg` + `Shift` + `print (prt sc)` | Select an area to take a screenshot and copy it to the clipboard
 `Super` + `Tab` | Select window
 `Super` + `Arrows` | Position window
 `Super` + `Shift` + `Arrows` | Move window on different monitor
 
+### Nautilus
+`Strg` + `Shift` +`t` | Open new tab
+
+### Terminator
+`Strg` + `Shift` + `t` | Open new tab
 
 ### Bash
 Key | Action

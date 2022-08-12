@@ -43,3 +43,4 @@ Key | Action
 ## Docker
 * Run kali on docker
 * `docker run --tty --interactive kalilinux/kali-rolling`
+* `apt update && apt -y install kali-linux-headless`

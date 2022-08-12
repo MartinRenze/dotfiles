@@ -39,3 +39,7 @@ Key | Action
 `Ctrl` + `b` then `[` | Open visual mode
 `tmux a` | Attach to last session
 `Ctrl` + `b` then `d` | Detach from session
+
+## Docker
+* Run kali on docker
+* `docker run --tty --interactive kalilinux/kali-rolling`

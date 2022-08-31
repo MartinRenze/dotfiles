@@ -41,6 +41,8 @@ Key | Action
 `Ctrl` + `b` then `d` | Detach from session
 
 ## Docker
+* Exec into docker container
+* `docker exec -it container_id bash`
 * Run kali on docker
 * `docker run --tty --interactive kalilinux/kali-rolling`
 * `apt update && apt -y install kali-linux-headless`

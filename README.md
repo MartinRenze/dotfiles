@@ -39,6 +39,7 @@ Key | Action
 `Ctrl` + `b` then `[` | Open visual mode
 `tmux a` | Attach to last session
 `Ctrl` + `b` then `d` | Detach from session
+`Ctrl` + `b` then `c` | Create new window
 
 ## Docker
 * Exec into docker container

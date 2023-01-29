@@ -9,6 +9,11 @@
 
 ## Switch `Caps` and `Esc` Key
 
+## Switch `Y and Z` on German keyboard
+
+* `sudo vim /usr/share/X11/xkb/symbols/de`
+* Switch in first block 
+
 ## Shortcut Keys / Hotkeys
 ### Ubuntu
 Key | Action

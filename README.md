@@ -54,3 +54,12 @@ Key | Action
 * Run kali on docker
 * `docker run --tty --interactive kalilinux/kali-rolling`
 * `apt update && apt -y install kali-linux-headless`
+
+## Disable webcam audio
+* Create file `sudo vim /etc/udev/rules.d/90-block-webcam-sound.rules`
+* find vendor und product id with `lsusb`
+* with content:
+```
+# Do not want low quality webcam mic
+SUBSYSTEM=="usb", DRIVER=="snd-usb-audio", ATTRS{idVendor}=="041e", ATTRS{idProduct}=="4097", ATTR{authorized}="0"
+```

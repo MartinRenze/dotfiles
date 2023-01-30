@@ -8,6 +8,8 @@
 
 
 ## Switch `Caps` and `Esc` Key
+* `dconf write "/org/gnome/desktop/input-sources/xkb-options" "['caps:swapescape']"`
+* done in script
 
 ## Switch `Y and Z` on German keyboard
 

@@ -40,6 +40,9 @@ Key | Action
 
 ### Vim
 
+### Linphone
+* Config in `~/.config/linphone` and `~/.local/share/linphone`
+
 ### Tmux
 Key | Action
 ----|-------

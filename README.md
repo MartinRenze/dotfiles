@@ -43,6 +43,9 @@ Key | Action
 ### Linphone
 * Config in `~/.config/linphone` and `~/.local/share/linphone`
 
+### Update AppImages
+* follow https://github.com/MartinRenze/update-appimage
+
 ### Tmux
 Key | Action
 ----|-------

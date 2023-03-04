@@ -55,6 +55,8 @@ Key | Action
 `Ctrl` + `b` then `c` | Create new window
 
 ## Docker
+* Allow docker to access `/media`
+* `sudo snap connect docker:removable-media`
 * Exec into docker container
 * `docker exec -it container_id bash`
 * Run kali on docker

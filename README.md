@@ -55,10 +55,7 @@ Key | Action
 `Ctrl` + `b` then `c` | Create new window
 
 ## Docker
-* Allow docker to access `/media`
-* `sudo snap connect docker:removable-media`
-* Add user so we dont need sudo
-* `sudo setfacl -m user:$USER:rw /var/run/docker.sock`
+* Docker snap does not work with vscode, so use apt version
 * Exec into docker container
 * `docker exec -it container_id bash`
 * Run kali on docker

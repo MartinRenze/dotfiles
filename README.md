@@ -57,6 +57,10 @@ Key | Action
 ## Docker
 * Allow docker to access `/media`
 * `sudo snap connect docker:removable-media`
+* Add user so we dont need sudo
+* `sudo addgroup --system docker`
+* `sudo adduser $USER docker`
+* `newgrp docker`
 * Exec into docker container
 * `docker exec -it container_id bash`
 * Run kali on docker
